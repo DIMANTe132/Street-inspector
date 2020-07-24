@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.qml</file>
+        <file>reload.png</file>
+        <file>icon-map.png</file>
+    </qresource>
+</RCC>
